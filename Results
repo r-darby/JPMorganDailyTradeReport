@@ -1,0 +1,42 @@
+"C:\Program Files\Java\jdk1.8.0_101\bin\java" -javaagent:D:\Programs\Code\IntelliJ\2017.1.2\lib\idea_rt.jar=64902:D:\Programs\Code\IntelliJ\2017.1.2\bin -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;D:\Projects\Code\IntelliJ\JPMorganOthers\TechnicalTest\target\classes" com.jpmorgan.main.Main
+Finished adding data
+
+Generating Report....
+
+===== Incoming by Date =====
+Date: 2016-01-07: Amount: 14899.5
+Date: 2017-05-11: Amount: 14899.5
+Date: 2017-05-12: Amount: 97725.0
+Date: 2017-05-14: Amount: 29799.0
+Date: 2017-05-15: Amount: 225450.0
+Date: 2017-05-19: Amount: 20000.0
+===== End of Incoming by Date =====
+
+===== Outgoing by Date =====
+Date: 2016-01-04: Amount: 10025.0
+Date: 2017-05-02: Amount: 105400.0
+Date: 2017-05-03: Amount: 5400.0
+Date: 2017-05-04: Amount: 5400.0
+Date: 2017-05-05: Amount: 25800.0
+Date: 2017-05-07: Amount: 16200.0
+Date: 2017-05-08: Amount: 51600.0
+Date: 2017-05-10: Amount: 14899.5
+Date: 2017-05-11: Amount: 14899.5
+Date: 2017-05-14: Amount: 54723.5
+Date: 2017-05-15: Amount: 20050.0
+===== End of Outgoing by Date =====
+
+===== Incoming by Entity =====
+Rank: 1, Entity: bar, Amount: 262773.0
+Rank: 2, Entity: aaa, Amount: 100000.0
+Rank: 3, Entity: foo, Amount: 40000.0
+===== End of Incoming by Entity =====
+
+===== Outgoing by Entity =====
+Rank: 1, Entity: aaa, Amount: 132400.0
+Rank: 2, Entity: bbb, Amount: 77400.0
+Rank: 3, Entity: bar, Amount: 74497.5
+Rank: 4, Entity: foo, Amount: 40100.0
+===== End of Outgoing by Entity =====
+
+Process finished with exit code 0
